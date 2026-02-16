@@ -23,5 +23,4 @@ Robotic Arm Assembly_V3<img width="1062" height="644" alt="v3" src="https://gith
 * **Fabrication:** Hybrid construction using **3D Printed (PLA+)** end-effectors for complex geometry and **Laser-Cut Aluminium** for structural links.
 
 ### 🎥 Demo
-![Arm Movement Demo](images/arm-demo.gif)
-*[Watch full demo video](LINK_TO_YOUTUBE_OR_DRIVE)*
+*[Watch full demo video](https://youtube.com/shorts/ENlbNlkxMXE)*
