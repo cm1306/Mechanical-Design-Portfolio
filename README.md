@@ -14,12 +14,13 @@ A collection of engineering projects featuring SolidWorks CAD modeling
 Designed and fabricated a custom robotic arm for the Robocon 2026 competition. The arm was engineered to pick and place objects with a mass of ≈500 grams while minimising total weight.
 
 ### 📸 Design
-![Robotic Arm Assembly](images/robotic-arm-render.png)
+Robotic Arm Assembly_V2<img width="910" height="653" alt="v2" src="https://github.com/user-attachments/assets/fc022bd6-f84d-4f5b-9433-00840c1d90d4" />![v2a](https://github.com/user-attachments/assets/f34f5472-178c-4cfa-a535-a023a8a34d3f)
+
+Robotic Arm Assembly_V3<img width="1062" height="644" alt="v3" src="https://github.com/user-attachments/assets/ecd9aa0a-5aa6-4580-95c5-b8db7f21a92f" />![v3a](https://github.com/user-attachments/assets/e9f8cd1c-9579-4a6b-8e83-a6281bd55ffa)
 
 ### ⚙️ Technical Highlights
-* **Weight Optimization:** Utilized topology optimization in SolidWorks to reduce linkage weight by 15% without compromising structural rigidity.
-* **Transmission:** Designed a custom timing belt reduction system to increase torque for the base joint.
-* **Fabrication:** Hybrid construction using **3D Printed (PLA+)** end-effectors for complex geometry and **Laser-Cut Acrylic** for structural links.
+* **Weight Optimization:** Utilized topology optimization to reduce linkage weight without compromising structural rigidity.
+* **Fabrication:** Hybrid construction using **3D Printed (PLA+)** end-effectors for complex geometry and **Laser-Cut Aluminium** for structural links.
 
 ### 🎥 Demo
 ![Arm Movement Demo](images/arm-demo.gif)
